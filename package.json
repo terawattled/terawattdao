@@ -1,0 +1,17 @@
+{
+  "name": "terawattdao",
+  "version": "1.0.0",
+  "description": "Terawatt DAO",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@thetta/core": "^1.4.1"
+  }
+}
